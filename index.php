@@ -8,14 +8,16 @@ echo '
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v5.8.9, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/logo5.png" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
   <meta name="description" content="">
   
   
-  <title>LeanBiome</title>
+  <title>GlucoTrust</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel=\'stylesheet\'">
@@ -28,65 +30,59 @@ echo '
 </head>
 <body>
   
-  <section data-bs-version="5.1" class="header12 cid-tDDWMxUBRK" id="header12-1e">
-
+  <section data-bs-version="5.1" class="menu menu1 cid-tDt8R6Rj21" once="menu" id="menu1-p">
     
 
-    
-    
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="card col-12 col-md-12 col-lg-9">
-                <div class="card-wrapper">
-                    <div class="card-box align-center">
-                        <h1 class="card-title mbr-fonts-style mb-3 display-1"><strong>LeanBiome</strong></h1>
-                        <p class="mbr-text mbr-fonts-style display-7">Made in the USA in an FDA-certified facility, the product is pure, safe, and has no negative side effects. It is produced under the most strict and precise conditions.<br><br><strong>Limited Time Special Pricing - Act Now!</strong><br></p>
-                        <div class="mbr-section-btn mt-3"><a class="btn btn-secondary display-4" href="https://bestofferhere.link/leanbiome">Order Now &gt;</a></div>
-                    </div>
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="container-fluid">
+            <div class="navbar-brand">
+                
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white text-primary display-7" href="https://bestofferhere.link/GlucoTrust">GlucoTrust™</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
                 </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="https://bestofferhere.link/GlucoTrust">Home</a></li>
+                    <li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="">About us</a></li>
+                    <li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="">Contact</a>
+                    </li></ul>
+                
+                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-white display-4" href="https://bestofferhere.link/GlucoTrust">Order Now</a></div>
             </div>
         </div>
-    </div>
+    </nav>
 </section>
 
-<section data-bs-version="5.1" class="image3 cid-tDDWStGhXC" id="image3-1f">
+<section data-bs-version="5.1" class="features18 cid-tDz1hYQ4vI" id="features19-19">
+
     
 
     
     
-
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12 col-lg-7">
+            <div class="card col-12 col-lg">
+                <div class="card-wrapper">
+                    <h6 class="card-title mbr-fonts-style mb-4 display-2"><strong>GlucoTrust™ Official</strong><div><strong>
+</strong></div><div><strong>
+</strong></div><div><strong>
+</strong></div><div><strong>
+</strong></div></h6>
+                    <p class="mbr-text mbr-fonts-style display-7">Just one capsule per day, taken before bedtime, promotes <br>healthy blood sugar levels while giving other health benefits such as...<br><br>- Promoting healthy blood flow and circulation
+<br>- Reducing sugar and junk food cravings
+<br>- Supporting deep, rejuvenating sleep<br><br><strong>&nbsp;180 Days Money Back Guarantee</strong><br></p>
+                    <div class="mbr-section-btn"><a class="btn btn-success display-5" href="https://bestofferhere.link/GlucoTrust">Order now</a></div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
                 <div class="image-wrapper">
-                    <a href="https://bestofferhere.link/leanbiome"><img src="assets/images/st-536x466.png" alt="LeanBiome"></a>
-                    <p class="mbr-description mbr-fonts-style mt-2 align-center display-4">
-                        LeanBiome</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section data-bs-version="5.1" class="content15 cid-tDDLX1r0CN" id="content15-1c">
-
-    
-
-    
-    
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="card col-md-12 col-lg-10">
-                <div class="card-wrapper">
-                    <div class="card-box align-left">
-                        <h4 class="card-title mbr-fonts-style mbr-white mb-3 display-5"><strong>180-Day "Empty Bottle"&nbsp;</strong><strong>Money-Back Guarantee</strong></h4>
-                        <p class="mbr-text mbr-fonts-style display-7">I\'m so confident you\'ll be head-over-heels thrilled with the results you get that I\'m giving you a full six months to try LeanBiome for yourself, completely risk-free, regardless of the package you choose.
-<br>
-<br>If you change your mind for any reason at all, simply contact my friendly customer support team, and they\'ll refund 100% of the purchase price, no questions asked.
-<br>
-<br>Contact details will be on the packaging.</p>
-                        
-                    </div>
+                    <a href="https://bestofferhere.link/GlucoTrust"><img src="assets/images/gl-removebg-preview-1-654x381.png" alt="Mobirise Website Builder"></a>
                 </div>
             </div>
         </div>
@@ -105,17 +101,17 @@ echo '
                     <div class="plan-header">
                         <h6 class="plan-title mbr-fonts-style mb-3 display-5"><strong>1 Bottle</strong></h6>
                         <div class="plan-price">
-                            <p class="price mbr-fonts-style m-0 display-1"><strong>$59</strong></p>
+                            <p class="price mbr-fonts-style m-0 display-1"><strong>$69</strong></p>
                             <p class="price-term mbr-fonts-style mb-3 display-7"><strong>Per Bottle</strong></p>
                         </div>
                     </div>
                     <div class="plan-body">
                         <div class="plan-list mb-4">
                             <ul class="list-group mbr-fonts-style list-group-flush display-7">
-                                <li class="list-group-item">1-Month Supply</li><li class="list-group-item">Before Price : $129&nbsp;</li><li class="list-group-item">Now : $59</li><li class="list-group-item">You save $70.00</li><li class="list-group-item">180 Days Guarantee</li><li class="list-group-item">+$19.95 Indian Shipping Fee</li>
+                                <li class="list-group-item">30 Day Supply</li><li class="list-group-item">Total : $69</li><li class="list-group-item">180 Days Guarantee</li><li class="list-group-item">+$9 Shipping Fee</li>
                             </ul>
                         </div>
-                        <div class="mbr-section-btn text-center"><a href="https://bestofferhere.link/leanbiome" class="btn btn-secondary display-4">Buy Now</a></div>
+                        <div class="mbr-section-btn text-center"><a href="https://bestofferhere.link/GlucoTrust" class="btn btn-success display-4">Buy Now</a></div>
                     </div>
                 </div>
             </div>
@@ -124,17 +120,17 @@ echo '
                     <div class="plan-header">
                         <h6 class="plan-title mbr-fonts-style mb-3 display-5"><strong>6 Bottle</strong></h6>
                         <div class="plan-price">
-                            <p class="price mbr-fonts-style m-0 display-1"><strong>$39</strong></p>
+                            <p class="price mbr-fonts-style m-0 display-1"><strong>$49</strong></p>
                             <p class="price-term mbr-fonts-style mb-3 display-7"><strong>Per&nbsp;Bottle</strong></p>
                         </div>
                     </div>
                     <div class="plan-body">
                         <div class="plan-list mb-4">
                             <ul class="list-group mbr-fonts-style list-group-flush display-7">
-                                <li class="list-group-item">6-Month Supply + Bonus</li><li class="list-group-item">Before Price : $774</li><li class="list-group-item">Now : $234</li><li class="list-group-item">You save $540.00</li><li class="list-group-item">180 Days Guarantee</li><li class="list-group-item">Free Shipping</li>
+                                <li class="list-group-item">180 Day Supply</li><li class="list-group-item">Total : $294</li><li class="list-group-item">180 Days Guarantee</li><li class="list-group-item">Free Shipping</li>
                             </ul>
                         </div>
-                        <div class="mbr-section-btn text-center"><a href="https://bestofferhere.link/leanbiome" class="btn btn-secondary display-4">Buy Now</a></div>
+                        <div class="mbr-section-btn text-center"><a href="https://bestofferhere.link/GlucoTrust" class="btn btn-success display-4">Buy Now</a></div>
                     </div>
                 </div>
             </div>
@@ -143,17 +139,17 @@ echo '
                     <div class="plan-header">
                         <h6 class="plan-title mbr-fonts-style mb-3 display-5"><strong>3 Bottle</strong></h6>
                         <div class="plan-price">
-                            <p class="price mbr-fonts-style m-0 display-1"><strong>$49</strong></p>
+                            <p class="price mbr-fonts-style m-0 display-1"><strong>$59</strong></p>
                             <p class="price-term mbr-fonts-style mb-3 display-7"><strong>One&nbsp;Bottle</strong></p>
                         </div>
                     </div>
                     <div class="plan-body">
                         <div class="plan-list mb-4">
                             <ul class="list-group mbr-fonts-style list-group-flush display-7">
-                                <li class="list-group-item">3-Month Supply + Bonus</li><li class="list-group-item">Before Price : $387</li><li class="list-group-item">Now : $147</li><li class="list-group-item">You save $240.00</li><li class="list-group-item">180 Days Guarantee</li><li class="list-group-item">+$19.95 Indian Shipping Fee</li>
+                                <li class="list-group-item">90 Day Supply</li><li class="list-group-item">Total : $177</li><li class="list-group-item">180 Days Guarantee</li><li class="list-group-item">Free Shipping</li>
                             </ul>
                         </div>
-                        <div class="mbr-section-btn text-center"><a href="https://bestofferhere.link/leanbiome" class="btn btn-secondary display-4">Buy Now</a></div>
+                        <div class="mbr-section-btn text-center"><a href="https://bestofferhere.link/GlucoTrust" class="btn btn-success display-4">Buy Now</a></div>
                     </div>
                 </div>
             </div>
@@ -177,11 +173,11 @@ echo '
                     
                     
                     
-                <li class="foot-menu-item mbr-fonts-style display-7">Terms &amp; Conditions</li><li class="foot-menu-item mbr-fonts-style display-7">Privacy</li><li class="foot-menu-item mbr-fonts-style display-7">Disclaimer&nbsp;</li></ul>
+                <li class="foot-menu-item mbr-fonts-style display-7"><a href="" class="text-white text-primary">Terms &amp; Conditions</a></li><li class="foot-menu-item mbr-fonts-style display-7"><a href="" class="text-white text-primary">Privacy</a></li><li class="foot-menu-item mbr-fonts-style display-7"><a href="" class="text-white text-primary">Disclaimer&nbsp;</a></li></ul>
             </div>
             
             <div class="row row-copirayt">
-                <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">COPYRIGHT © LeanBiome - ALL RIGHTS RESERVED</p>
+                <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">COPYRIGHT © GlucoTrust - ALL RIGHTS RESERVED.</p>
             </div>
         </div>
     </div>
